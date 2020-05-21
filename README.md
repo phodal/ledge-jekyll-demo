@@ -1,5 +1,7 @@
 # Ledge 主题 Demo
 
+> Ledge Framework is a documentation as code framework, it build custom markdown render to render chart, kankban, graphics and others.
+
 ```maturity
  - 持续交付
    - 配置管理: 3
