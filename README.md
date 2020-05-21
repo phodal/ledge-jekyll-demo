@@ -1,5 +1,4 @@
-# jekyll-demo
-# Ledge 语法帮助
+# Ledge 主题 Demo
 
 ```maturity
  - 持续交付
