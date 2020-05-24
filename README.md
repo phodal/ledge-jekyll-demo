@@ -658,22 +658,3 @@ console.log('hello, world');
 ## [Link in Heading](https://devops.phodal.com/design)
 
 <a href="https://www.phodal.com/">phodal.com</a>
-
----
-
-1. fsda
-2. 34 sdf
-
-- a
-- a
-
-3. sdaf
-
-b
-
-- [ ] a
-- [ ] b
-  - [ ] c
-
-update for build
-
