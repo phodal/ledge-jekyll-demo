@@ -1,4 +1,4 @@
-# Ledge Jekyll Theme Demo
+# Ledge Jekyll Theme with Style Demo
 
 > Ledge Framework is a documentation as code framework, it build custom markdown render to render chart, kankban, graphics and others.
 
